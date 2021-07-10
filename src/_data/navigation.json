@@ -10,10 +10,6 @@
       "url": "/blog/"
     },
     {
-      "text": "Bookshelf",
-      "url": "/bookshelf"
-    },
-    {
       "text": "Twitter",
       "url": "https://twitter.com/originalzedders",
       "external": true

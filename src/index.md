@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to Crypto and Tech Blog
+title: Welcome to Crypto and Tech Anorak Blog
 metaTitle: 5AMBLOGGER
 metaDesc: Personal Website of 5amBlogger,I write case studies on Startups,Crypto
   coins,Blog guides and on Entreprenuerships
@@ -12,6 +12,6 @@ A Web Developer, Crypto Enthusiasts and Fast Learner
 
 Recent makes:
 
-🚀[StartHere](https://www.5amblogger.com/blog/)
+🚀[](https://devsites.netlify.app)[Start Here](https://5amblogger.com/blog/)
 
 📚[Bookshelf](/bookshelf)

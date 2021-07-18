@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About Us
-permalink: /about-us/INDEX.HTML
+permalink: /about/index.html
 metaTitle: 5amblogger-about us page
 ---
 *Currently only 2 people work on this site*

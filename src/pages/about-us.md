@@ -12,7 +12,7 @@ I studied at the Indian Institute of Information Technology Jabalpur (**Btech** 
 
 
 
-***2.Aravind Charlie***
+***2.Aravind ***
 
 
 Bio: Curious and science enthusiastic. Wanted to explore and find answers to the questions I get regarding nature(particularly in maths and physics) 

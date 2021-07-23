@@ -4,16 +4,13 @@ title: About Us
 permalink: /about/index.html
 metaTitle: 5amblogger-about us page
 ---
-*Currently only 2 people work on this site*
+*Currently, only 2 people work on this site*
 
 1. ***Gramy (pen name)***
 
-I studied at the Indian Institute of Information Technology Jabalpur (**Btech** Electronics and communication), my area of interest include Ancient Science and Technology, Time Machine and also cryptocurrency
+I studied at the Indian Institute of Information Technology Jabalpur (**Btech** Electronics and communication), my area of interest include Ancient Science and Technology, Time Machine and Random Paradoxes
 
-
-
-***2.Aravind ***
-
+***2.Aravind*** 
 
 Bio: Curious and science enthusiastic. Wanted to explore and find answers to the questions I get regarding nature(particularly in maths and physics) 
 

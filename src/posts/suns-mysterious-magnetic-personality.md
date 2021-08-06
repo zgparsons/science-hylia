@@ -7,7 +7,10 @@ metaDesc: If we can use a compass on the surface of the Sun (hypothetically) and
   the Sun
 date: 2021-08-06T06:42:06.399Z
 tags:
-  - "#sun#solar#magnetism#sunspots#poloidalfield#toroidalfield"
+  - sun
+  - solar
+  - magnetism
+  - sunspots
 ---
 <!--StartFragment-->
 

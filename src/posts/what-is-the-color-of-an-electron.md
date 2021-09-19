@@ -14,7 +14,7 @@ tags:
 
 Any scholar in physics finds this question ridiculous. But I would like to explore this question a little bit by giving a hypothetical idea about it. We know the existence of electrons since JJ Thomson discovered it. An innumerable number of theories are being developed on it and using it. But the colour of the electron was unexplored, and there is indeed a valid reason for that. 
 
-To comment on the colour of the electron, we must know how the objects produce colours in the first place. 
+Before commenting on the colour of the electron, we must know how the objects produce colours in the first place. 
 
 <!--EndFragment-->
 
@@ -28,9 +28,13 @@ We know that every state of matter in the universe is made up of atoms. In every
 
 <!--StartFragment-->
 
-Electrons in the outermost orbit, otherwise called the valence shell, are responsible for releasing the colour we see in our daily lives. When some electromagnetic radiation hits the surface of an object, electrons outer shells these surface atoms absorb energy and get excited to higher energy levels or higher orbits. The electron has energy, but it is not stable in that excited state; due to this, the electron falls back to its original orbit, releasing energy in the form of Photons. 
+<!--StartFragment-->
 
-These Photons have any range of frequency of an electromagnetic wave; if they have a frequency of in the visible spectrum, we could see the colours. Depending upon the frequency of the Photon, we see the corresponding colour of the object. For example, if the Photon has a frequency ranging from 620 million Hertz to 670 million Hertz, the colour we can see is blue, i.e. the corresponding object appears to us in blue. 
+Electrons in the outermost orbit, the valence shell, are responsible for releasing the colour we see in our daily lives. When some Electromagnetic waves hit the surface of an object, atoms on the surface of the object absorb energy electrons in the outermost shell, observe this energy and get excited to higher energy levels or higher orbits. Electrons get excited to higher energy levels. The electron has high energy, but it is not stable in that excited state due to this the electron falls back to its original orbit releasing some packet of energy, or we can call it a Photon. This photon can have any range of frequency of an electromagnetic wave; if this Photon has a frequency in the visible region of electromagnetic waves, we could see the colours. Depending upon the frequency of the Photon, we see the colour of the object. For example, if the Photon has a frequency ranging from 620 million Hertz to 670 million Hertz, then the colour we can see is blue, which means the corresponding object appears to us in blue. 
+
+
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
@@ -38,13 +42,25 @@ These Photons have any range of frequency of an electromagnetic wave; if they ha
 
 <!--StartFragment-->
 
-So we could see colour only because of the de-excitation of electron releases some electromagnetic waves or photons which falls under the visible spectrum. An interesting thing is two colours which we see in our regular life doesn't fall in this visible spectrum one is white and the other is black.
+<!--StartFragment-->
+
+So we could see colour only because the de-excitation of electrons releases some Electromagnetic waves or photons which fall under the visible spectrum.
+
+An interesting thing is two colours which we see in our regular life don't fall in this visible spectrum; one is white and the other is black. White is the combination of all coloured em waves in the visible spectrum, i.e. VIBGYOR mix to form white colour. That is to form a white light the atom must release photons of all colours at a time.
+
+
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-White is the combination of all coloured em waves in the visible spectrum, i.e. VIBGYOR mix to form white colour. Black is nothing at all, i.e. if no em waves are emitting or em waves don't fall under visible spectrum makes it the black colour. That is why we see black when there are no lights. So if there is a dress in black colour, that means it does not emit any visible spectrum that is why we see it in Black.
+<!--StartFragment-->
+
+While colour Black is nothing at all, i.e. if no EM waves are emitting or EM waves don't fall under visible spectrum makes it the black colour. That is why we see nothing when there are no lights(as there is no light to atoms, so no absorption and no emission). In the same way space is filled with black in colour like the night we see but has light emitted by stars, this is because space is not emitting any radiation that falls under the visible spectrum, but stars are. And also if there is a dress in black colour, that means it does not emit any visible spectrum that is why we see it in Black.
+
+<!--EndFragment-->
 
 <!--EndFragment-->
 
@@ -52,4 +68,12 @@ White is the combination of all coloured em waves in the visible spectrum, i.e. 
 
 <!--StartFragment-->
 
-As there is no possibility of forming radiation from the electron, I think that electron could only be in Black. Not only electron but also proton, neutron, nucleus all the particles in the atoms are blackish. This is what I think. I would highly value your opinion on this, so please comment your view. Thank you.
+<!--StartFragment-->
+
+From these things I can assume that an electron is not in a place to form electromagnetic waves which have some color on their own. So just like dark space, the electron should also have a black colour unless it has a capability to produce photos of some color on their own. 
+
+So I think the electron is black in colour. Not only electrons but also protons, neutrons, nucleus all the particles in the atoms are blackish. This is what I think. I would like to know your opinion on this. Thank you.
+
+
+
+<!--EndFragment-->
